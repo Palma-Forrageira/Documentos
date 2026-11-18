@@ -4,7 +4,7 @@
 
 Apresenta os objetivos, o público-alvo e os requisitos do projeto.
 
-[📄 Acessar o Documento de Visão](https://docs.google.com/document/d/1vW_kjCi2gxjZc67dDa3UP9pcum1tsSpEsqfWb6PPe2k/edit?usp=sharing)
+[📄 Acessar o Documento de Visão]https://docs.google.com/document/d/1PwGrFIHCrIK6Nn9KKQ04T_DOzNAw_YID/edit?usp=sharing&ouid=100042123884915304249&rtpof=true&sd=true
 
 ## Caderno de Acompanhamento
 
